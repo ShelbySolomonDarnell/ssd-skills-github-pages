@@ -1,44 +1,18 @@
 ---
 layout: default
 ---
-## Welcome to my Curriculum Vitae
+## S. Solomon Darnell's Curriculum Vitae
 
 [back](./)
 
-__ORC ID__ --> [_0000-0002-4841-4398_](https://orcid.org/0000-0002-4841-4398)
+__ORC ID__ [_0000-0002-4841-4398_](https://orcid.org/0000-0002-4841-4398)
 
 ---
 
 ### Personal Statement
 
 Computing technology is becoming more integral to every walk of life with every passing day. Tools are being created on a daily basis to support human tasks and need improvement, re-imagining, and replacing. There are multiple areas of computing inquiry with humongous unexplored areas, and wide explored areas to which ones' imagination can be put to bare. Sparking the imaginations of others with technical leadership while pursuing technical improvement with scientific discovery is what I am doing with my career.
-<!-- 
-*Being able to spark imaginations and placing people on the right path toward scientific discovery is what I intend to do with my career.
--->
-<!-- 
----
 
-### Teaching Statement
-
----
-
-##### WHY?
-
-With skills and experiences across a large number of years in technology why teach? For the strengthening, transmission, and improvement of ideas, techniques and knowledge. Working in tech has shown me that being stuck with a non-adaptive skill-set is to ones' detriment. As a lecturer one is introduced to new ideas and motivations through students, and in turn is able to do the same for them.
-
-##### HOW?
-
-As a teaching assistant and lecturer I have found people learn best through doing, and learn best from someone who has practical knowledge, experience and skill. In a classroom I like to get students attention, introduce them to new best practices, and guide them on their own learning journeys. As a professor one must guide and support while providing motivation, inspiration and spirit. In technology I have worked as an IT administrator, software engineer, lecturer, contractor and researcher. I can speak to many types and levels of jobs in the area and guide students toward the type of career they desire. As a professor I like to see the application of learning. Throughout my classes practical work, applicable to my industry experience will be assigned. Students should leave a class I have taught knowing how a specific area of interest will propel them toward their goals, while having practiced the skill. Although my PhD is in Computer Science, I focused on Affecting Computing -- getting computers to understand human emotion. My work was the design, development and evaluation of a web application that enables teacher reflective practice. The study helped me learn there are many gaps between actual student engagement and teach perceived student engagement. As a goal, I believe it necessary to develop a continual feedback and reflective practice to tailor learning experiences for the students present in a class.
-
-##### WHAT?
-
-Computing technology is becoming more integral to every walk of life with every passing day. Tools are being created on a daily basis to support human tasks and need improvement, re-imagining, and replacement. There are multiple areas of computing inquiry with humongous unexplored areas, and wide explored areas to which ones' imagination can be put to bare. Being able to spark imaginations and placing people on the right path toward scientific discovery is what I intend to do with my career.
--->
-<!--
----
-### Research Statement
----
--->
 
 ---
 ### Work History
@@ -46,7 +20,7 @@ Computing technology is becoming more integral to every walk of life with every 
 #### 2020-2026
 Bascom Palmer Eye Institute at University of Miami Health System
 : __2025-now__ *Postdoctoral Researcher \& AI expert*
-[-] Lead research into use of LLMs and VLMs to support the practice of eye clinicians.
+* Lead research into use of LLMs and VLMs to support the practice of eye clinicians.
 
 GeneNetwork at UTHSC
 : __2023-2025__ *Postdoctoral Researcher \& AI expert* 
@@ -117,21 +91,21 @@ L-3 Communications MIS
 
 Auburn University
 : __2004-2005__ *Information Technology (IT) Lead and Manager, Student Athlete Support Services (SASS)*
-  [-] Chief architect for in-house student check-in software
-  [-] managed multiple computer labs
-  [-] hired & groomed a 4 person staff, each of whom had the duel role of lab manager and developer
-  [-] managed over 100 computer, interfacing and meeting the needs of Athletic counselors and student-athletes alike
+  + Chief architect for in-house student check-in software
+  + managed multiple computer labs
+  + hired & groomed a 4 person staff, each of whom had the duel role of lab manager and developer
+  + managed over 100 computer, interfacing and meeting the needs of Athletic counselors and student-athletes alike
 
 : __2004__ *IT Lead Assistant & Developer, College of Science and Math (COSAM)*
-  [-] provided windows and mac system administration, trouble shooting and support
-  [-] co-developed software for genetic sequence experimentation
+  + provided windows and mac system administration, trouble shooting and support
+  + co-developed software for genetic sequence experimentation
 
 : __2002-2003__ *IT support, Department of Computer Science and Software Engineering (CSSE)*
-  [-] Managed multiple computer labs and equipment
-  [-] provided windows, mac, and linux system administration, trouble-shooting and support
+  * Managed multiple computer labs and equipment
+  * provided windows, mac, and linux system administration, trouble-shooting and support
 
 : __2001-2003__ *Mentor, College of Engineering*
-  [-] Tutor Engineering physics I, II and computer science years 1-3
+  * Tutor Engineering physics I, II and computer science years 1-3
 
 ---
 
@@ -139,9 +113,9 @@ Auburn University
 
 *Auburn/Clemson University*
 : __2003, 2004, 2012__ *Computer Science - Applications, Department of Computer Science*
-  [-] Oversee computer science lab assignments
-  [-] Teach basic MS office application usage
-  [-] Teach lab and grade assignments
+  * Oversee computer science lab assignments
+  * Teach basic MS office application usage
+  * Teach lab and grade assignments
 
 ---
 
