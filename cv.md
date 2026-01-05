@@ -66,17 +66,17 @@ IBM Research
 
 Clemson University
 : __2009_2015__ *Graduate Researcher*
-  + Research, development and publishing in Affective computing, human centered computing and biometrics
-  + Organize and mentor research experience for undergraduates program
-  + Research lab list: 
-  + + Affective Computing (AC) Lab
-  + + Human Centered Computing (HCC) Lab
-  + +Biometric and Pattern Recognition (BPR) Lab
-  + Create a platform to support teacher's reflective practice in the classroom based on student engagement
-  + Develop a grammer using voice XML to enable vocal interaction for an online shopping app
-  + Developed an Amazon-like voice-enabled website to help the elderly shop more easily
-  + Research and improve 2.5D finger surface recognition using computational intelligence
-  + Research and publish on periocular biometric identification in the visible and infrared spectra
+  * Research, development and publishing in Affective computing, human centered computing and biometrics
+  * Organize and mentor research experience for undergraduates program
+  * Research lab list: 
+  ** Affective Computing (AC) Lab
+  ** Human Centered Computing (HCC) Lab
+  ** Biometric and Pattern Recognition (BPR) Lab
+  * Create a platform to support teacher's reflective practice in the classroom based on student engagement
+  * Develop a grammer using voice XML to enable vocal interaction for an online shopping app
+  * Developed an Amazon-like voice-enabled website to help the elderly shop more easily
+  * Research and improve 2.5D finger surface recognition using computational intelligence
+  * Research and publish on periocular biometric identification in the visible and infrared spectra
 
 Auburn/Clemson University
 : __2003, 2004, 2012__ *Graduate Teacher*
@@ -122,12 +122,20 @@ __2025, 2024, 2023__ Conference Organizer/Presenter [MemPanG2(3-5)](https://pang
 : *University of Tennessee Health Science Center - Department of Genetics, Genomics and Informatics*
   + MemPanG is a computational pangenomics course, conference and biohackathon in Memphis, TN, exploring the cutting edge of pangenomes, biology, methods, software and AI.
 
-__2023__ Watch --> [Professor S on the Role of AI and Blockchain in identity, financial inclusion and governance]()
+__2023__ AI Blockchain Expert
 : *Gochappa Kenya podcast, 25 August*
+  + Watch --> [Professor S on the Role of AI and Blockchain in identity, financial inclusion and governance](https://www.youtube.com/watch?v=anCMP65yy4A)
+
+__2022__ Computing Expert Panelist
+: *East Africa Property Investment Summit [(EAPI)](https://eapisummit.com/)*
+  + Panel topic: Technoloigy in Real Estate
+
+__2022__ Blockchain Specialist, Moderator, Mentor, and Judge
+: **Panel & Hackathon for Web3 for Gender Equity** *iHub @ Nairobi, KENYA*
+  + Africa DAO Web3 Gender Hackathon
 
 __2016__ Computer Vision Expert
-**Strathmore University Computer Science**
-: *Nairobi, KENYA*
+: **Strathmore University Computer Science** *Nairobi, KENYA*
   + Give overview of computer vision
   + Answer student questions about proceeding in CS study
 
