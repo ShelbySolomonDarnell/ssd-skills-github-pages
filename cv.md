@@ -24,18 +24,18 @@ Bascom Palmer Eye Institute at University of Miami Health System
 
 GeneNetwork at UTHSC
 : __2023-2025__ *Postdoctoral Researcher \& AI expert* 
-  [-] Develop optimal way to improve GeneNetwork and UTHSC genetics, genomics and informatics research with affective, human-centered computing and AI.
+  + Develop optimal way to improve GeneNetwork and UTHSC genetics, genomics and informatics research with affective, human-centered computing and AI.
 : __2022-2023__ *AI Consultant* 
-  [-] Develop and implement AI/ML/Causal research for GeneNetwork project
+  + Develop and implement AI/ML/Causal research for GeneNetwork project
 
 Strathmore University @iLabAfrica Research Center 
 : __2020-2022__ *Research & Academic Director*
-  [-] Initiate masters degree program in Data Science and Analytics (DSA)
-  [-] Accepted initial cohort into DSA program
-  [-] Teach python to DSA students
-  [-] Teach Advanced AI & Machine Learning to computer science PhDs
-  [-] Technical and professional advisor for onsite professional training cohort
-  [-] Published a journal paper and won two grants
+  + Initiate masters degree program in Data Science and Analytics (DSA)
+  + Accepted initial cohort into DSA program
+  + Teach python to DSA students
+  + Teach Advanced AI & Machine Learning to computer science PhDs
+  + Technical and professional advisor for onsite professional training cohort
+  + Published a journal paper and won two grants
 
 [AfroValley](www.afrovalley.io) 
 : __2021__ *Software Architect Contractor*
@@ -43,40 +43,47 @@ Strathmore University @iLabAfrica Research Center
 #### 2010-2019
 Solomon Ventures LLC & Tint Right Colour Enterprise
 : __2019__ *Solution/System Architecting, Development, and Consulting*
-    [-] Architecture developed for a revolutionary housing portal for Kenya, by Kenyans.
+    + Architecture developed for a revolutionary housing portal for Kenya, by Kenyans.
 
 Techno Brain Group LLC
 : __2019__ *Product Manager, Identity Management (IDM) Business Unit*
-  [-] Developed a new architecture to revamp twelve (12) year old software offering. 
-  [-] Lead the development of a proof of concept implementation of the architecture, personally building several services. 
-  [-] Led interaction with client, a country technology representative in the office of the president. 
-  [-] Consulted, planned and tested migration of company wide software DevOPs.
+  + Developed a new architecture to revamp twelve (12) year old software offering. 
+  + Lead the development of a proof of concept implementation of the architecture, personally building several services. 
+  + Led interaction with client, a country technology representative in the office of the president. 
+  + Consulted, planned and tested migration of company wide software DevOPs.
 
 IBM Research
 : __2016-2018__ *Research Scientist*
-  [-] Investigate identity and security on blockchain using biometrics. 
-  [-] Research and implementation of state-of-the-art cancelable biometric techniques to create a pastoral identity solution to aide developing and war torn countries with emergency identity management. 
+  + Investigate identity and security on blockchain using biometrics. 
+  + Research and implementation of state-of-the-art cancelable biometric techniques to create a pastoral identity solution to aide developing and war torn countries with emergency identity management. 
 
 : __2015-2016__ *Research Post-doc*
-  [-] Further explored computer vision techniques for tracking and uniquely identifying dark-skinned children in a classroom under hardware and network resource constraints. 
-  [-] Published patent.
+  + Further explored computer vision techniques for tracking and uniquely identifying dark-skinned children in a classroom under hardware and network resource constraints. 
+  + Published patent.
 
 : __2015__ *Intern*
-  [-] Implemented and demoed a real-time computer vision application to track dark-skinned children in a classroom under hardware and network resource constraints.
+  + Implemented and demoed a real-time computer vision application to track dark-skinned children in a classroom under hardware and network resource constraints.
 
 Clemson University
 : __2009_2015__ *Graduate Researcher*
-  [-] Research, development and publishing in Affective computing, human centered computing and biometrics
-  [-] Organize and mentor research experience for undergraduates program
-  [-] Research lab list: Affective Computing (AC) Lab Human Centered Computing (HCC) Lab, Biometric and Pattern Recognition (BPR) Lab
-  [-] Create a platform to support teacher's reflective practice in the classroom based on student engagement
-  [-] Develop a grammer using voice XML to enable vocal interaction for an online shopping app
-  [-] Developed an Amazon-like voice-enabled website to help the elderly shop more easily
-  [-] Research and improve 2.5D finger surface recognition using computational intelligence
-  [-] Research and publish on periocular biometric identification in the visible and infrared spectra
+  + Research, development and publishing in Affective computing, human centered computing and biometrics
+  + Organize and mentor research experience for undergraduates program
+  + Research lab list: 
+  + + Affective Computing (AC) Lab
+  + + Human Centered Computing (HCC) Lab
+  + +Biometric and Pattern Recognition (BPR) Lab
+  + Create a platform to support teacher's reflective practice in the classroom based on student engagement
+  + Develop a grammer using voice XML to enable vocal interaction for an online shopping app
+  + Developed an Amazon-like voice-enabled website to help the elderly shop more easily
+  + Research and improve 2.5D finger surface recognition using computational intelligence
+  + Research and publish on periocular biometric identification in the visible and infrared spectra
 
-: *Graduate Teacher*
-  [-] Teach class and lead laboratory on computing fundamentals
+Auburn/Clemson University
+: __2003, 2004, 2012__ *Graduate Teacher*
+  * Teach class and lead laboratory on computing fundamentals
+  * Oversee computer science lab assignments
+  * Teach basic MS office application usage
+  * Teach lab and grade assignments
 
 #### 2001-2009
 L-3 Communications MIS
@@ -109,13 +116,23 @@ Auburn University
 
 ---
 
-### Teaching Experience
+### Talks, Panels & News Articles
 
-*Auburn/Clemson University*
-: __2003, 2004, 2012__ *Computer Science - Applications, Department of Computer Science*
-  * Oversee computer science lab assignments
-  * Teach basic MS office application usage
-  * Teach lab and grade assignments
+__2025, 2024, 2023__ Conference Organizer/Presenter [MemPanG2(3-5)](https://pangenome.github.io/MemPanG25/)
+: *University of Tennessee Health Science Center - Department of Genetics, Genomics and Informatics*
+  + MemPanG is a computational pangenomics course, conference and biohackathon in Memphis, TN, exploring the cutting edge of pangenomes, biology, methods, software and AI.
+
+__2023__ Watch --> [Professor S on the Role of AI and Blockchain in identity, financial inclusion and governance]()
+: *Gochappa Kenya podcast, 25 August*
+
+__2016__ Computer Vision Expert
+**Strathmore University Computer Science**
+: *Nairobi, KENYA*
+  + Give overview of computer vision
+  + Answer student questions about proceeding in CS study
+
+
+
 
 ---
 
