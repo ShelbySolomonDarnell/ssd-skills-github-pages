@@ -69,9 +69,9 @@ Clemson University
   * Research, development and publishing in Affective computing, human centered computing and biometrics
   * Organize and mentor research experience for undergraduates program
   * Research lab list: 
-  ** Affective Computing (AC) Lab
-  ** Human Centered Computing (HCC) Lab
-  ** Biometric and Pattern Recognition (BPR) Lab
+  * * Affective Computing (AC) Lab
+  * * Human Centered Computing (HCC) Lab
+  * * Biometric and Pattern Recognition (BPR) Lab
   * Create a platform to support teacher's reflective practice in the classroom based on student engagement
   * Develop a grammer using voice XML to enable vocal interaction for an online shopping app
   * Developed an Amazon-like voice-enabled website to help the elderly shop more easily
@@ -89,8 +89,8 @@ Auburn/Clemson University
 L-3 Communications MIS
 : __2009__ *System Integration Lab Manager*
   + Acted as a systems integration lab manager:
-  ++ organize and build, from the ground up, a SIL with the help of warehouse personnel 
-  ++ oversee test engineers while simulating real-world tests on SIL equipment
+  + + organize and build, from the ground up, a SIL with the help of warehouse personnel 
+  + + oversee test engineers while simulating real-world tests on SIL equipment
 
 : __2009__ *Junior Project Engineer*
   + Performed a subset of the duties of a Project Engineer
