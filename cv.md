@@ -134,12 +134,23 @@ __2022__ Blockchain Specialist, Moderator, Mentor, and Judge
 : **Panel & Hackathon for Web3 for Gender Equity** *iHub @ Nairobi, KENYA*
   + Africa DAO Web3 Gender Hackathon
 
+__2021__ Computer Science Expert
+: **6th yearly Strathmore Institute of Mathematics Conference (SIMC)** *Strathmore University Nairobi, KENYA*
+  + Watch the panel discussion [here](https://youtu.be/YPju3rqoapk?t=7098)
+
+__2021__ Blockchain R&D Expert
+: **East Africa Blockchain Event** *[AfroValley](www.afrovalley.io) Nairobi, KENYA*
+  + Watch the panel on [Digital Currency and Research](https://youtu.be/ncYHK50qSRo?t=849)
+
+__2020__ Panel Keynote Speaker
+: **School of Computing and Engineering Sciences (SCES) Opening** *Strathmore University Nairobi, KENYA*
+  + Talk title: Embracing a Changing Society: Through the convergence of Computing and Engineering
+  + Panelist and anchor with Kenyan tech industry experts/professionals
+
 __2016__ Computer Vision Expert
-: **Strathmore University Computer Science** *Nairobi, KENYA*
+: **Strathmore University Computer Science (CS)** *Nairobi, KENYA*
   + Give overview of computer vision
   + Answer student questions about proceeding in CS study
-
-
 
 
 ---
@@ -209,7 +220,7 @@ __2016__ Computer Vision Expert
 
 ---
 
-#### Books \& Chapters
+#### Books & Chapters
 
 ---
 
@@ -246,7 +257,7 @@ __2016__ Computer Vision Expert
 
 ---
 
-#### Technical and White Papers
+#### Technical & White Papers
 
 ---
 
