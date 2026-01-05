@@ -20,7 +20,7 @@ Computing technology is becoming more integral to every walk of life with every 
 #### 2020-2026
 Bascom Palmer Eye Institute at University of Miami Health System
 : __2025-now__ *Postdoctoral Researcher \& AI expert*
-* Lead research into use of LLMs and VLMs to support the practice of eye clinicians.
+  + Lead research into use of LLMs and VLMs to support the practice of eye clinicians.
 
 GeneNetwork at UTHSC
 : __2023-2025__ *Postdoctoral Researcher \& AI expert* 
@@ -181,11 +181,11 @@ __2016__ Computer Vision Expert
 
 ---
 
-### Awards, Grants \& Honors
+### Awards, Grants & Honors
 
 ---
 
-| **Year** | **Year/Month** | **Type** | **Description**                                                                                              |
+| **Year** | **Month** | **Type** | **Description**                                                                                              |
 | :------------: | :------------------: | :-------------: | :----------------------------------------------------------------------------------------------------------------- |
 |      2020      |         Dec         | **Award** | United Nations Office on Drugs and Crime (UNODC) East Africa Blockchain Hackathon, Best Hyperledger Implementation |
 |      2015      |         Nov         | **Honor** | Research Post-Doc with IBM Research Headquarters in Yorktown Heights, NY                                           |
