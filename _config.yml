@@ -5,4 +5,4 @@ plugins:
 author: [S. Solomon Darnell]
 title: [Test site for SSD]
 description: [Main site without my personal domain.]
-show_downloads: ["true"]
+show_downloads: ["false"]
