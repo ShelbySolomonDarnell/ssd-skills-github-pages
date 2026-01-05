@@ -88,13 +88,21 @@ Auburn/Clemson University
 #### 2001-2009
 L-3 Communications MIS
 : __2009__ *System Integration Lab Manager*
-  Acted as a systems integration lab manager by organizing and building, from the ground up, a SIL with the help of warehouse personnel and test engineers to simulate the internals of an aircraft system to be deployed for the U.S. Airforce.
+  + Acted as a systems integration lab manager:
+  ++ organize and build, from the ground up, a SIL with the help of warehouse personnel 
+  ++ oversee test engineers while simulating real-world tests on SIL equipment
 
-: __2009__ *Project Engineer*
-  Performed a subset of the duties of a Project Engineer (overall engineering lead, management of incoming product and warehouse personnel, overseeing project shipping and receiving, while interacting and working with sub-contractors to build solutions for our clients).
+: __2009__ *Junior Project Engineer*
+  + Performed a subset of the duties of a Project Engineer
+  + overall engineering lead for plant wide project
+  + management of incoming product and warehouse personnel
+  + overseeing project shipping and receiving
+  + interact and work with sub-contractors to build solutions for client
 
 : __2006-2008__ *Software Engineer II*
-  As a developer I designed and implemented client-server enterprise software to control aircraft hardware, built development management scripts, and added to an existing internal web platform
+  + As a developer I designed and implemented client-server enterprise software to control aircraft hardware
+  + built development management scripts
+  + added modules to an existing internal web platform
 
 Auburn University
 : __2004-2005__ *Information Technology (IT) Lead and Manager, Student Athlete Support Services (SASS)*
